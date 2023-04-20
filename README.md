@@ -23,6 +23,4 @@ It is important to note that you don't have to be a pro in all the technologies 
             - Concepts to learn: pull, push, merge, fork, pull request, merge conflict, reset and commit.
         - [Github Skills](https://skills.github.com/)
         - Bonus: [Github Co-Pilot](https://docs.github.com/en/copilot)
-        - [CheatSheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)) 
-
-3. 
+        - [CheatSheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
